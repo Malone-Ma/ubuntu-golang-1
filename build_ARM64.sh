@@ -1,1 +1,1 @@
-docker build -t openthings/ubuntu-golang:AMR64
+docker build -t openthings/ubuntu-golang:ARM64 .

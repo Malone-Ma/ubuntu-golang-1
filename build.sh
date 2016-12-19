@@ -1,1 +1,1 @@
-docker build -t openthings/ubuntu-golang
+docker build -t openthings/ubuntu-golang .
